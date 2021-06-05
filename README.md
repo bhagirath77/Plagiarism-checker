@@ -1,4 +1,4 @@
-Plagiarism checker
+**Plagiarism checker**
 
 The aim of the project is to create a plagiarism checker for text files.
 
