@@ -5,7 +5,9 @@ from PIL import ImageDraw
 import unicodedata
 import cv2
 import pytesseract
+
 pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
+
 
 def text2png(text, fullpath, color="#000", bgcolor="#FFF", fontfullpath=None, fontsize=13, leftpadding=3,
              rightpadding=3, width=200):
@@ -49,13 +51,16 @@ def text2png(text, fullpath, color="#000", bgcolor="#FFF", fontfullpath=None, fo
 
     img.save(fullpath)
 
+
 def read_text_files(file_path):
     with open(file_path, encoding='utf8') as f:
         s = f.read()
-        generated_img_path = f'../imgs/{(file_path.split("."))[0]}.png'
-        text2png(s, generated_img_path, fontfullpath="font.ttf")
+        generated_img_path = f'../../imgs/{(file_path.split("."))[0]}.png'
+        text2png(s, generated_img_path, fontfullpath="../font.ttf")
+
 
 def img_2_text(image_path):
+    print(image_path)
     img = cv2.imread(image_path)
     img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
     y = pytesseract.image_to_string(img)
@@ -64,6 +69,7 @@ def img_2_text(image_path):
     f = open(f'../final_txt_files/{image_path.split(".")[0]}.txt', 'w')
     f.write(x)
     f.close()
+
 
 def removeIrrelevantChars(s):
     # s.replace(" ", "")
@@ -75,7 +81,8 @@ def removeIrrelevantChars(s):
     # print(x)
     return x
 
-def hashValues(s,d):
+
+def hashValues(s, d):
     code = {"!": 1, "#": 2, "$": 3, "%": 4, "&": 5, "(": 6, ")": 7, "*": 8, "+": 9, ",": 10,
             "-": 11, ".": 12, "/": 13, ":": 14, ";": 15, "<": 16, "=": 17, ">": 18, "?": 19,
             "@": 20, "[": 21, "^": 22, "_": 23, "`": 24, "{": 25, "|": 26, "}": 27, "~": 28,
@@ -88,7 +95,7 @@ def hashValues(s,d):
 
     # created a 5-gram
     for i in range(d):
-        x += ((109**(d-1-i))*code[s[i]])
+        x += ((109 ** (d - 1 - i)) * code[s[i]])
         # x += pow(100,d-i,100009)
         x = x % 100009
     # print(x)
@@ -96,36 +103,38 @@ def hashValues(s,d):
     lis.append(x)
     # print(x)
     i = 1
-    while(i < len(s)-d+1):
-        x = ((x - (109**(d-1))*code[s[i-1]])*109 + code[s[i+d-1]])
+    while (i < len(s) - d + 1):
+        x = ((x - (109 ** (d - 1)) * code[s[i - 1]]) * 109 + code[s[i + d - 1]])
         x = x % 100009
         lis.append(x)
         i += 1
     # print(lis)
     return lis
 
-def winnowing(lst,d):
+
+def winnowing(lst, d):
     y = len(lst)
     x = 100009
     # window of 3
     winList = []
-    for i in range(y-d+1):
-        if x != min(lst[i:i+d]):
-            winList.append([min(lst[i:i+d]), i])
-            x = min(lst[i:i+d])
+    for i in range(y - d + 1):
+        if x != min(lst[i:i + d]):
+            winList.append([min(lst[i:i + d]), i])
+            x = min(lst[i:i + d])
     return winList
+
 
 def printPer(lis1, lis2):
     match = {}
     i = 0
-    while(i < len(lis1)):
+    while (i < len(lis1)):
         # print(match)
         # print(lis1[i][0])
-        match[lis1[i][0]] = match.get(lis1[i][0], 0)+1
+        match[lis1[i][0]] = match.get(lis1[i][0], 0) + 1
         i += 1
     i = 0
     count = 0
-    while(i < len(lis2)):
+    while (i < len(lis2)):
         if lis2[i][0] in match:
             count += 1
             match[lis2[i][0]] -= 1
@@ -133,43 +142,47 @@ def printPer(lis1, lis2):
                 del match[lis2[i][0]]
         i += 1
     # print(len(lis1))
-    similarity = (2*count)/(len(lis1)+len(lis2)) * 100
+    similarity = (2 * count) / (len(lis1) + len(lis2)) * 100
     # print(similarity)
     return similarity
+
 
 def printPer_500(lis1, lis2):
     match = {}
     i = 0
-    while(i < len(lis1)):
+    while (i < len(lis1)):
         # print(match)
         # print(lis1[i][0])
-        match[lis1[i]] = match.get(lis1[i], 0)+1
+        match[lis1[i]] = match.get(lis1[i], 0) + 1
         i += 1
     i = 0
     count = 0
-    while(i < len(lis2)):
+    while (i < len(lis2)):
         if lis2[i] in match:
             count += 1
             match[lis2[i]] -= 1
             if match[lis2[i]] == 0:
                 del match[lis2[i]]
         i += 1
-    similarity = (2*count)/(len(lis1)+len(lis2)) * 100
+    similarity = (2 * count) / (len(lis1) + len(lis2)) * 100
     return similarity
     # print(similarity)
 
 
-# read the files from the given dataset
-path = 'txt_files'
-os.chdir(path)
+def read_all_files():
+    for file in os.listdir():
+        if file.endswith('.txt'):
+            print('success')
+            read_text_files(f'{file}')
 
-# store their images in another folder
-for file in os.listdir():
-    if file.endswith('.txt'):
-        read_text_files(f'{file}')
 
-os.chdir('../imgs')
+# read the files from the given dataset and convert them to images
+os.chdir('pan_15_dataset/src')
+read_all_files()
+os.chdir('../susp')
+read_all_files()
 
+os.chdir('../../imgs')
 # convert it back to text and store it in another folder with the same names as the initial
 for file in os.listdir():
     if file.endswith('.png'):
