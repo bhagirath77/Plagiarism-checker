@@ -160,7 +160,7 @@ def printPer_500(lis1, lis2):
 
 
 # read the files from the given dataset
-path = 'txt_files'
+path = 'Main_Code/txt_files'
 os.chdir(path)
 
 # store their images in another folder
