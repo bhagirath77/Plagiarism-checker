@@ -1,0 +1,27 @@
+69%? Answer: No. Why not? Well, you may be like a friend of mine who has
+traded stocks a dozen times but made money only once (a few hundred bucks).
+But here is another reason: The 69% average rise represents 253 perfect trades.
+A perfect trade is one in which you buy at the breakout price and sell at the ultimate high—the highest high before prices decline by at least 20%. Not only
+are the trades perfect, but also commissions are not included. Your return may
+be lower . . .  the same content but paraphrased. This is reflected by the 
+increase in on-line services (e.g. Plagiarism.org and 
+turnitin.com) to address plagiarism from available on-line 
+resources, particularly term paper mills which can supply 
+pre-made essays to students for a given fee. Services to 
+track and monitor commercial content have also received 
+increased popularity as the media report more cases of 
+stolen digital content (e.g. contentguard.com). 
+Whale (1990) suggests that “the task [of automatic 
+plagiarism detection] may be simplified by finding a 
+distinctive characteristic such as a misspelled identifier or 
+paraphrased comment, though such a capability is hard to 
+build into any automated plagiarism detection system.” To 
+identify more complex forms of plagiarism beyond cut-andpaste or simple rewriting is hard, particularly for natural 
+language, therefore automatic plagiarism detection 
+generally involves finding quantifiable discriminators which 
+can be used to measure the similarity between texts. 
+Rather than identify more complex plagiarism, the 
+automatic methods aim to highlight potentially derived texts 
+through “unusual” or unlikely similarity enabling further 
+manual inspection where more complex forms can be 
+found. 

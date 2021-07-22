@@ -8,7 +8,7 @@ import pytesseract
 import unicodedata
 
 pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
-path = 'txt_files'
+path = 'Main_Code/txt_files'
 
 
 def text_2_png(text, full_path, color="#000", bgcolor="#FFF", fontfullpath=None, fontsize=15, leftpadding=3,

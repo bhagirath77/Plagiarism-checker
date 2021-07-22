@@ -1,0 +1,12 @@
+Volume trend. Most of the time, rectangles with a rising volume trend
+perform better than do those with a falling volume trend. The only exception
+comes from rectangles in a bear market with a downward breakout.
+Volume shapes. Rectangles with a random—neither U nor dome—volume shape performed best most of the time. The sample counts are very low
+so it might be best to ignore the results. If you do that, then the best performance comes from patterns having U-shaped volume. The exception is rectangles in bull markets with upward breakouts: They do best with dome-shaped
+volume.
+Breakout volume. Heavy breakout volume works best when the breakout is in the direction of the prevailing price trend—bull market, upward
+breakouts and bear market, downward breakouts. They perform better or substantially better than rectangles with breakout volume below the 30-day average. Countertrend RBs showed mixed results.
+Table 37.8 shows miscellaneous statistics for RBs.
+Partial rise or decline. If you are not familiar with a partial rise or
+decline, consult the figures and associated text in the Glossary and Methodology chapter. Partial rises and declines are reliable predictors of breakout direction. For example, an upward breakout follows a partial decline 81% of the
+574 R

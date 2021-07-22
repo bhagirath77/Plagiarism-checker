@@ -1,0 +1,26 @@
+As Table 37.2 predicted (see “Days to ultimate high or low”), RBs in a
+bear market with a downward breakout show the quickest decline, with 55%
+reaching the ultimate low in less than 3 weeks. At the other end of the scale,
+14% are still searching for the ultimate low after 70 days.
+What do the numbers mean? Table 37.5 shows how likely your rectangle
+will top/bottom out over time. Rectangles with upward breakouts will take
+longer to reach the ultimate high than those with downward breakouts. In a
+bear market, RBs show strength at day 56, so if you short a stock, you may need
+to close out your position in weeks 7 to 9.
+Table 37.6 shows statistics related to size.
+Height. Tall patterns perform better than short ones. For example, tall
+rectangles in bull markets with upward breakouts rise 66% after the breakout.
+Rectangles shorter than the median show postbreakout rises of just 34%.
+Width. Usually, wide patterns perform better than narrow ones, but the
+difference is slight. The exception is for rectangles in bear markets with
+upward breakouts. Narrow rectangles show rises of 25% and wide ones rise
+24% after the breakout. I used the median width as the separator between narrow and wide.
+Average formation length. The average rectangle length was about 78
+days except for those in a bear market with a downward breakout. They averaged 58 days long. I set a minimum length of about 2 weeks because short rectangles are better classified as flags.
+Height and width combinations. Looking at the combination of height
+and width, you would expect patterns both tall and wide to perform best
+because those traits do well individually. Table 37.6 shows that is indeed the
+case if you overlook the low sample count results (the 85% rise for rectangles
+in bull markets, upward breakouts used 18 samples, and the 41% rise in bear
+markets, upward breakouts had 9 samples).
+Table 37.7 shows volume-related statistics

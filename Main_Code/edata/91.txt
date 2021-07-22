@@ -1,0 +1,21 @@
+Statistics
+Table 37.2 shows general statistics for RBs.
+Number of formations. I searched through 500 stocks from mid-1991
+to mid-1996 and another 500 from 2000 to 2003 to capture the bear market. I
+found fewer RBs than I hoped, 374, split between market conditions and
+breakout directions.
+Reversal or continuation. Since rectangle bottoms must have price
+entering the pattern from the top, an upward breakout represents a reversal of
+the price trend, and a downward breakout is a continuation. If you do the math
+using the numbers in Table 37.2, you will find that RBs act as consolidations
+of the price trend 55% of the time.
+Average rise or decline. The best performance from RBs comes in a bull
+market with an upward breakout. In fact, when the breakout is in the same
+direction as the general market, the pattern performs better. For example, RBs
+in a bear market with downward breakouts show declines averaging 25%, but
+those in a bull market decline an average of just 14%. This behavior shows the
+market’s influence, and it reinforces the belief that you should trade with the
+general market trend.
+Rises or declines over 45%. Bullish chart patterns always do better than
+bearish ones for large moves. This is true, in part, because of the math. A stock
+can double or triple, but a stock cannot lose more than 100% of its value. Ove

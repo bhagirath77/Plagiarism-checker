@@ -1,0 +1,31 @@
+terns with downward breakouts fail to drop more than 15%. For upward
+breakouts, patterns cross the halfway mark between rises of 15% and 25%.
+These results suggest that you should not depend on a large rise or large
+decline after a BB. Scanning down each row, we also see that BBs in bull markets
+with upward breakouts have the lowest failure rates. Those are the ones to buy.
+Another way to use Table 1.3 is to assess how likely it is that your trade
+will fail. If you have a cost of trading of 5% and you want to make 20%, how
+many patterns in a bull market with upward breakouts will fail to rise at least
+25% (5 + 20)? Answer: 59%. Just 41% of the patterns will meet your profit Because there are many ways to express the same 
+concept, the longer n becomes, the more unlikely it is that 
+the same sequence of n tokens (words or characters) will 
+appear in the same order in independently-written texts. 
+Methods have varied between the use of fixed length 
+substrings (commonly known as n-grams), variable-length 
+substrings, or both (see, e.g. (Brin et al.,1995), 
+(Shivakumar and Garcia-Molina,1996), (Lyon et al.,2001), 
+and (Broder,1998)). The assumption that derived texts are 
+unlikely to share matching sequences of consecutive 
+tokens of length ≥ n rests upon the intuition that the way in 
+which people express themselves varies from person to 
+person. Even if writing about the same subject, it is unlikely 
+that the topic will be expressed in exactly the same way 
+(e.g. the same program structure or grammatical syntax), 
+and using exactly the same words (i.e. the same 
+vocabulary). As McEnery and Wilson (1996) state about 
+finding the same sentence more than once: “unless it is a 
+very formulaic sentence (such as those appearing as part 
+of a legal disclaimer at the beginning of a book), it is deeply 
+unlikely that you will find it repeated in its exact form in any 
+book, in any library, anywhere” (McEnery and 
+Wilson,1996:7)

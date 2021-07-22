@@ -1,0 +1,39 @@
+Trading Tactics
+Table 37.9 lists trading tactics for rectangle bottoms.
+Measure rule. The first tactic is to determine the predicted price target
+using the measure rule. The rule first finds the height of the formation by subtracting the lowest low from the highest high. In essence, just subtract the
+value of the two trend lines from each other. Figure 37.4 shows an example of
+this. The top trend line is at 12.44 and the bottom one is at 11. The difference,
+1.44, is the formation height. Add the height to the value of the top trend line
+to get the upward breakout target (13.88) and subtract it from the value of the
+lower trend line to get the downward breakout target (9.56). Some analysts
+suggest measuring the length (not the height) of the rectangle, flipping it vertically, and adding or subtracting it from the top or bottom trend line to get the
+maximum price move (for upward and downward breakouts, respectively).
+This approach sounds a bit far-fetched, but it is a handy guideline. Use it with
+caution as I have not verified how well it works.
+The measure rule (vertical measure) works between 50% and 66% of the
+time for downward breakouts and between 64% and 85% of the time for
+upward breakouts.
+576 Rectangle Bottoms
+Table 37.9
+Trading Tactics
+Trading Tactic Explanation
+Measure rule Measure the height of the rectangle by subtracting the value of
+the trend lines from each other. For upward breakouts, add the
+height to the top trend line; for downward breakouts, subtract the
+value from the bottom trend line. The result is the expected minimum price move. For a maximum price target, measure the length
+of the rectangle and extend it vertically above the top trend line
+(for upward breakouts) or below the bottom one (downward
+breakouts). The price then becomes the maximum expected move.
+Wait for breakout Since you cannot be sure in which direction a rectangle will break
+out, wait for price to close outside the trend line before trading in
+the direction of the breakout.
+Tall rectangle scalp If the rectangle is tall enough, sell or sell short near the top trend
+line and buy or cover near the bottom trend line.
+Throwbacks, If you have a downward breakout, watch for a pullback and short 
+pullbacks the stock or add to your short position once prices begin descending again. Use the same technique for an upward breakout: Wait
+for the throwback then initiate or add to your position when
+prices rise.
+Other Watch for rectangles forming as the corrective phase of a
+measured move formation and adjust the target price accordingly.
+Rectangle reversals sometimes appear as flat bottom formations

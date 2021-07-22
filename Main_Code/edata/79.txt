@@ -1,0 +1,31 @@
+declines over 45%. Outstanding performance is rare for BBs.
+The best showing comes from upward breakouts in a bull market, with 20% of
+the patterns climbing more than 45%. That may sound like a lot, but other
+patterns do much better. Thus, do not expect a large move. Downward breakouts almost never fare well in this category.
+Change after trend ends. In a bull market, once prices reach the ultimate low after a downward breakout, prices rise an average of 51%. Even in a
+bear market, the climb measures 46%. Thus, if you can determine when the
+downtrend ends, buy the stock and surf the rising tide.
+Busted pattern performance. Few patterns bust, so the performance
+numbers are not solid. Still, they show how much better a busted pattern does Methods have also been developed to visualise the 
+similarity between texts including VAST (Culwin and 
+Lancaster,2001), Dotplot (Church and Helfman,1996), 
+Bandit8
+ and Duploc (Ducasse et al.,1999). For more 
+information about plagiarism detection, see (Clough, 2000). 
+4. Example plagiarism detection methods for 
+natural language 
+Two approaches for detecting plagiarism in natural 
+language texts will now be discussed. The main focus of 
+my research has been measuring text reuse in journalism. 
+In most cases this would represent reuse by an 
+experienced plagiarist (i.e. the newsworker) with a high 
+level of editing skill and excellent command of the English 
+language. More recently I have been experimenting with 
+methods to detect stylistic inconsistency across a single 
+text. This inconsistency may indicate that different authors 
+may have been involved with its creation. 
+4.1. Measuring similarity between multiple texts 
+One method of plagiarism detection which has proven to be 
+successful in a number of applications is finding the overlap 
+of matching subsequences and substrings (consecutive 
+tokens) of length ≥ n (where n is derived empirically).

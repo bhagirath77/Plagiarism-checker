@@ -1,0 +1,16 @@
+Table 1.5 shows a frequency distribution of time to the ultimate high or
+low. Using numbers, it tells how soon your chart pattern will likely top or bottom out. For example, in a bear market with a downward breakout, over half
+(53%, or 25 + 28) bottom out within 2 weeks. At the other end of the table,
+almost half the patterns (45%) in a bull market take longer than 2 months (over
+70 days) to reach the ultimate high.
+Notice the slight blip in the numbers around days 35 and 42. Bear markets with upward breakouts and bull markets with downward breakouts show
+more trend changes during that period. Thus, 5 to 6 weeks after the breakout,
+look for a trend change.
+Table 1.6 shows size-related statistics. The results suffer from low sample
+counts, so keep that in mind.
+Height. Tall patterns perform better than short ones. Before you trade a
+BB, compute its height and divide the difference by the breakout price. If the
+result is above the median listed in the table, you have a tall pattern. It may not
+outperform, but it places the probability on your side.
+Width. Wide patterns usually perform better than narrow ones. I used
+the median length as the separator between narrow and wide

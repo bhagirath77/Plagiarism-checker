@@ -1,0 +1,21 @@
+For this book, I used several databases in which to search for chart patterns. The
+main database consists of 500 stocks, each with durations of 5 years beginning
+The Database 3
+4366_00.qxd 2/23/05 11:28 AM Page 3from mid-1991. I included the 30 Dow Jones industrials and familiar names
+with varying market capitalizations. Stocks included in the database needed 
+a heartbeat (that is, they were not unduly flat over the 5-year period) and 
+did not have consistently large intraday price swings (too thinly traded 
+or volatile).
+I usually removed stocks that went below $1.00, assuming bankruptcy
+was right around the corner. Most of the names in the database are popular
+American companies that trade on the NYSE, AMEX, or Nasdaq. The numerous illustrations accompanying each chapter give a representative sample of the
+stocks involved.
+To capture the bear market of 2000–2002 and expand on the bull market since 1996, I included two additional databases. The first uses about 200
+stocks that I follow daily. The other contains about 300 stocks that I no longer
+follow but that have historical data of limited duration (some issues no 
+longer trade).
+For rare chart patterns, I use all three databases and search from 1991 to
+the most recent date available. For plentiful patterns, I use already found patterns and add those appearing during the bear market. Thus, the number of
+stocks I use to find patterns and the amount of historical price quotes varies.
+In the first edition of this book, I used a combination of computerized
+algorithms and manual searching to find chart patterns. The current edition

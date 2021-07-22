@@ -1,0 +1,16 @@
+Breakout. The breakout point is difficult to identify in a broadening formation as it develops. I look for the place where price pierces the up or down
+trend line or makes an extended move. If price pierces the trend line, then the
+penetration point becomes the breakout point. If prices move up and follow
+along the top trend line without piercing it, then I backtrack to the prior minor
+high and draw a horizontal line forward in time until prices cross it. When that
+happens, that is the breakout point.
+Let me give you an example. Consider the broadening bottom shown in
+Figure 1.2. The price trend over the preceding month leading to the formation
+is downward. The two trend lines outline a widening price pattern as you
+would expect from a broadening formation. There are more than two minor
+highs and two minor lows pictured, meeting another criterion mentioned 
+in Table 1.1.
+Where is the breakout? This formation is particularly easy. If you extend
+the top trend line upward, you find that prices rise well above the line, signaling an upward breakout. Then it is just a matter of backtracking to the highest
+minor high and drawing a horizontal line to determine the actual breakout
+price. Point A marks the highest high in the formation.

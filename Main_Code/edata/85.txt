@@ -1,0 +1,37 @@
+When I was a little tyke I decided the easiest way to riches was to play the stock
+market. It was, after all, a level playing field, a negative-sum game with somebody winning and somebody losing. (Hint: The winner is always the broker.)
+All one had to do to win was pick stocks that went up and avoid stocks that
+went down. Easy.
+I kept this in mind when I graduated from Syracuse University with an
+engineering degree and showed up early for my first professional job. Each
+morning I cracked open the newspaper and plotted my stock picks on a piece of GST is similar to that of the Dotplot approach (see 
+Appendix 1), but with the advantage that the similarity is 
+also quantified. I am looking at ways to better capture tiling 
+patterns between texts, as well as creating 1:1 mappings 
+based on the context around tokens, rather than just 
+selecting the first match. I am also experimenting with 
+making tile creation more resilient to simple editing 
+changes, and comparing alternative text representations 
+based on tagged, parsed and interpreted formats. 
+I currently use a version of the UNIX diff tool to compute a 
+measure of similarity based on the longest common 
+subsequence of matching tiles to capture an element of 
+structural similarity between the texts. This sequence 
+comparison stage is also able to produce an edit script 
+which lists a set of simple edit operations (insertion, 
+deletion, substitution and transposition) to transform the 
+original text into the derived text. My goal is to capture 
+common editing patterns that describe how the tiles differ 
+between the original and derived text, to enable the 
+detection of further rewrite examples. Murata and Isaraha 
+(2002) have shown how sequence comparison can be used 
+to identify predictable differences between spoken transcripts of written texts.
+end to the
+bull market. The move capped a rise of 418% from the start of the period.
+After that, the downhill bear run began, reaching a low in October 2002, for a
+decline measuring 51%. The index bounced once but made a higher low in
+March 2003, signaling a trend change. Thus, the October low marked the end
+of the bear market.
+What does all this mean? The bear market measures from March 24,
+2000, to October 10, 2002—about 2.5 years long. For data collection purposes, the bull market is everything else, about 11 years long. That covers the
+period I used to search for chart patterns in this edition

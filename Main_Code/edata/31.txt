@@ -1,0 +1,19 @@
+The average time for the stock to return to the breakout price is less than
+2 weeks. In most cases, when a throwback or pullback occurs, performance suffers. Look for overhead resistance to an upward move or underlying support to
+a downward breakout before investing. If the congestion zone is nearby (less
+than 5% away), prices will likely push through, but overhead resistance will
+retard momentum and performance will suffer.
+Gaps. Gaps help performance in a bear market, but the result may change
+with additional samples. In a bull market, breakout day gaps either hurt performance or have no influence.
+Partial rises and declines. The next four lines of Table 1.4 concern how
+often a partial rise or decline occurs and if they do occur, how the pattern performs. A partial decline correctly predicts an upward breakout 80% of the time
+in a bull market. The other variations are less successful, being right about
+two-thirds of the time. Figure 1.1 shows a good example of a partial decline
+and Figure 1.4 shows a partial rise. See the Glossary and Methodology chapter for more information.
+20 Broadening Bottoms
+4366_01.qxd 2/23/05 11:28 AM Page 20Performance improves when the breakout duration agrees with the general market (upward breakouts, bull market or downward breakouts, bear market) and a partial rise or decline occurs. For countertrend trades, performance
+suffers after a partial rise or decline.
+Intraformation partial rises and declines. Intraformation partial rises
+and declines appear as small loops hanging from the trend lines. They are partial rises or declines that failed to breakout: Prices made another crossing of the
+broadening pattern. Intraformation partial rises or declines occur 13% or less
+of the time

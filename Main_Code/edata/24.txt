@@ -1,0 +1,22 @@
+Shape. The shape of the formation is distinct. It reminds me of chaos
+theory where small disturbances oscillate back and forth, then grow unbounded, wreaking havoc. In the stock market, price reaches a new high then
+crosses over and makes a new low, creating the broadening pattern. When you
+draw a trend line across the minor highs and another connecting the minor
+lows, the formation looks like a megaphone.
+Trend lines. The two trend lines drawn across the minor highs and lows
+are important. The top trend line should slope up; the bottom one should
+slope down. The diverging trend lines distinguish the broadening bottom from
+other types of formations, such as the right-angled broadening formation
+(which has one horizontal trend line) or the broadening wedge (both trend
+lines slope in the same direction). So it is important that each trend line has a
+slope that is opposite the other.
+Touches. A broadening bottom needs at least two minor highs and two
+minor lows to be a valid formation. Anything fewer means you are incorrectly
+identifying the formation. What is a minor high or low? A minor high is when
+prices trend up, then drop back down, leaving a clearly defined peak. A minor
+low is just the same thing flipped upside down: Prices move lower, then head
+back up leaving a clearly defined valley. Figure 1.1 shows five minor highs or
+lows, labeled by numbers. The odd numbers tag the minor highs and the even
+numbers are the minor lows. Let me stress that the minor highs and lows need
+not be alternating, as in Figure 1.1. Just as long as you can count at least two
+peaks and two valleys—wherever they may appear—that is fine

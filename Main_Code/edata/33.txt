@@ -1,0 +1,16 @@
+Average formation length. The average width is between 1 and 2
+months long.
+Height and width combinations. Tall and narrow patterns outperform
+the other combinations. You will want to avoid short and wide patterns. They
+perform worst.
+Table 1.7 shows volume-related statistics for broadening bottoms. The
+sample counts are few in this table, so the conclusions you reach may change
+with a larger sample size.
+Volume trend. Up breakouts do better when the volume trend is falling,
+and downward breakouts do better with a rising volume trend.
+Volume shapes. In all cases, a random volume shape—neither U- nor
+dome-shaped—performed better than the other shapes. A random shape
+includes flat, rising (trending up), and falling (trending down) volume trends.
+Breakout volume. Patterns in bear markets perform better after a heavy
+volume breakout. The other two columns either show no difference or show
+light volume breakouts outperforming

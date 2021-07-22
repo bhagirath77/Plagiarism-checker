@@ -1,0 +1,31 @@
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted in
+any form or by any means, electronic, mechanical, photocopying, recording, scanning, or
+otherwise, except as permitted under Section 107 or 108 of the 1976 United States 
+Copyright Act, without either the prior written permission of the Publisher, or authorization
+through payment of the appropriate per-copy fee to the Copyright Clearance Center, 222
+Rosewood Drive, Danvers, MA 01923, 978-750-8400, fax 978-646-8600, or on the Web at
+www.copyright.com. Requests to the Publisher for permission should be addressed to the
+Permissions Department, John Wiley & Sons, Inc., 111 River Street, Hoboken, NJ 07030,
+201-748-6011, fax 201-748-6008, or online at http://www.wiley.com/go/permissions. In this measure, the similarity between two sets of n-grams, 
+SA and SB, is computed by summing elements of the 
+intersection, T, of n-gram sets using a weighted function 
+dependent on the length of n-gram i, leni. The sum is 
+normalized with respect to set SA to create a subset or 
+containment score. This score can be computed for various 
+lengths of n (or leni) where the weighted score is used to 
+give a higher similarity score to longer overlapping n-grams. 
+If the weighting based on length is not used, the problem 
+arises where a single overlapping n-gram of length 5 will 
+receive the same score as 5 n-grams of length 1, but where 
+even a single occurrence of an n-gram of length 5 words is 
+much more significant and indicative of reuse than many 
+single word matches. 
+Two years later, Tom pulls up the stock chart. The dog has been flat for
+so long it looks as if its heartbeat has stopped. He calls Jim and chats about the
+outlook for JCB Superstores. Jim gushes enthusiastically about a new retailing
+concept called the Internet. He is excited about the opportunity to sell office
+2 Introduction
+4366_00.qxd 2/23/05 11:28 AM Page 2supplies online without the need for bricks and mortar. There is some risk
+because the online community is in its infancy, but Jim predicts it will expand
+quickly. Tom is impressed, so he starts doing his homework and is soon buying the stock again.
+Investment Footprints

@@ -1,0 +1,32 @@
+On March 24, 2000, the financial world changed. No, that was not the date this
+book first hit the store shelves, but the beginning of a bear market that lasted
+21⁄
+2 years. Finally, I had bear market data to use for finding chart patterns!
+After spending nearly 5 years recovering from the work needed to complete the first edition, I decided to undertake an update. I changed the editorial content of the book in small ways, but made substantial improvements in
+others. Here is the list of the important changes:
+• Bull and bear market statistics for complete coverage.
+• Expanded statistics, all in a similar format:
+Results Snapshot, at the start of each chapter shows the most
+important numbers and surprises. In my experiments with n-grams, I found data sparseness 
+to be a problem: the occurrence of longer n-grams 
+becomes increasingly rare in derived texts as relatively 
+simple lexical and syntactic rewriting is used to modify the 
+original. This method of comparison then becomes 
+sensitive to the n-gram length chosen to discriminate 
+between derived and non-derived texts. Another problem is 
+the existence of long substrings in non-derived texts 
+resulting from domain-specific terminology (e.g. “the court 
+was told yesterday”) and direct quotations, both of which 
+are likely to occur in dependent and independently-written 
+texts. An alternative approach to using fixed-length n-grams 
+is variable length n-grams or sequence comparison. In 
+particular, I have experimented with various methods of 
+computing the overlap of longest common substrings. The relative
+strength index peaked twice and now is headed down, suggesting a sale, and the
+commodity channel index says sell, too.”
+I sold the airline two trading days before the terrorist attacks of 9/11.
+Four days after trading resumed, the stock bottomed at 17.70, nearly half the
+price at what I sold. The footprints did not lie; they led away from a cliff.
+This book gives you the tools to spot the footprints, where they predict
+the stock is heading, how far it will travel, and how reliable the trail you are following really is. The tools will not make you rich; tools rarely do. But they are
+instruments to greater wealth. Use them wisely

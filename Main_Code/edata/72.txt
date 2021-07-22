@@ -1,0 +1,30 @@
+Broadening bottoms (BBs) are middle-of-the-road performers, sporting a 9%
+break-even failure rate except in bull markets when double digits prevail (a
+poor showing). The average rise or decline is also below that posted by other
+chart pattern types.
+Surprises are many and a few appear in the snapshot. I discuss them in
+more detail later.
+Tour One of many challenges in automatic plagiarism detection 
+is the selection of suitable discriminators that reflect 
+plagiarism and not co-incidental similarity due to content or 
+theme. So far the focus has been on lexical and structural 
+similarity in both program code and natural language, but 
+these become less effective when the degree of rewriting or 
+form of plagiarism becomes more complex. Three areas to 
+address in automatic plagiarism detection include the 
+following: 
+(1) Finding suitable discriminators of plagiarism which 
+can be quantified. 
+(2) Developing suitable methods to compare those 
+discriminators. 
+(3) Finding suitable measures of similarity. 
+The goal of an automatic plagiarism detection system is to 
+assist manual detection by: reducing the amount of time 
+spent comparing texts, making comparison between large 
+numbers of multiple texts feasible and finding possible 
+source texts from electronic resources available to the 
+system. The systems must minimise the number of false 
+positives (those incorrectly classed as plagiarised) and 
+false negatives (those incorrectly classed as nonplagiarised), and maximize the number of true positives 
+(those correctly classed as plagiarised) and true negatives 
+(those correctly classed as non-plagiarised)

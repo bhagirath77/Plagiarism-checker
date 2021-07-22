@@ -1,0 +1,44 @@
+used by the newsworker as deletion, lexical substitution, 
+and changes in syntax. 
+2.4. Plagiarism detection 
+Typically, manual plagiarism detection within a single text is 
+based on identifying inconsistencies such as the author’s 
+writing style, or recognising passages with a familiar feel to 
+them. Between multiple texts, plagiarism detection involves 
+finding similarities which are more than just coincidence 
+and more likely to be the result of copying or collaboration 
+between multiple authors. In some cases, a single text is 
+first read and certain characteristics found which suggest 
+plagiarism. The second stage is to then find possible 
+source texts using tools such as web search engines for 
+unknown on-line sources, or manually finding non-digital 
+material for known sources. 
+In academia, plagiarism detection is generally down to the 
+knowledge, ability, time and effort of the lecturer/teacher 
+assessing the student’s work. Typical discriminators 
+signaling plagiarism might include the following: 
+• Use of advanced or technical vocabulary beyond that 
+expected of the writer. 
+• A large improvement in writing style compared to 
+previous submitted work. 
+• Inconsistencies within the written text itself, e.g. 
+changes in vocabulary, style or quality. 
+• Incoherent text where the flow is not consistent or 
+smooth, which may signal that a passage has been 
+cut-and-pasted from an existing electronic source. 
+• A large degree of similarity between the content of two 
+or more submitted texts. This may include similarity of 
+style as well as content. 
+• Shared spelling mistakes or errors between texts. 
+• Dangling references, e.g. a reference appears in the 
+text, but not in the bibliography. 
+• Use of inconsistent referencing in the bibliography 
+suggesting cut-and-paste.
+If you have ever been a board member, you know what I am talking about.
+You have a fiduciary responsibility to the people who elected or appointed you
+to that position. Not only should you study the material handed to you by the
+staff, but you have to get out in the field and kick the tires. Do not assume that
+what the staff says is always correct or represents the best solution. Question
+everything but learn in the process and try to be helpful without being a pest
+(I always seem to fall into the pest category). As a shareholder—an owner of the
+company—should it be any different?

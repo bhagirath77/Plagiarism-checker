@@ -1,0 +1,25 @@
+Notice how quickly the failure rates climb. For example, 16% of the rectangles in a bull market with downward breakouts fail to drop more than 5%.
+This statistic skyrockets to 41% failing to drop more than 10%, and 60% drop
+less than 15%!
+Also, notice that the lowest failure rates accompany breakout directions
+that are in line with the general market—bull market, upward breakouts and
+bear market, downward breakouts. The countertrend rectangles (bear/up,
+bull/down) have higher failure rates.
+Here is another way to use the table. Suppose you have a rectangle with
+a breakout price of 10 and it is 2.50 tall. The measure rule (discussed later in
+the chapter) suggests a rise to 12.50 after an upward breakout. That is a 25%
+move. How likely is that in a bear market? Answer: 64% will fail to rise that far.
+Table 37.4 shows breakout- and postbreakout-related statistics.
+Formation end to breakout. The move from the rectangle end to the
+breakout is a quick one, averaging between 3 and 4 days.
+Yearly position. Rectangles with upward breakouts occur most often in
+the middle of the yearly trading range. Downward breakouts occur most often
+within a third of the yearly low. Think about that information before you buy
+a rectangle in a stock making new lows. The breakout may be downward,
+emphasizing that bottom fishing (buying stocks making new lows because you
+think they are poised to recover) is a difficult skill to master.
+Yearly position, performance. Mapping performance over the yearly
+price range gives mixed results because of the low sample counts. Rectangles
+with upward breakouts have the best performance when the breakout is in the
+middle of the yearly trading range. Downward breakouts do well when the
+breakout is near the yearly low.

@@ -1,0 +1,29 @@
+Focus on Failures
+Figure 1.3 shows a broadening bottom failure. Prices head down and appear to
+suffer a small dead-cat bounce lasting from April to August. I do not recommend taking a position in any stock that shows a dead-cat bounce regardless of
+how attractive the formation looks. Obey this recommendation for 6 months
+to a year while the stock recovers and management gets its house in order (or
+solves the cause of whatever is ailing the stock).
+In the 3 weeks before the formation appeared, prices were heading higher
+in reaction to the dead-cat bounce. In June they moved horizontally from the
+formation top for over a month before easing down. During this time, prices 3.2. Plagiarism detection in natural language 
+In a similar way to automatic plagiarism detection in 
+program code, methods of plagiarism detection in natural 
+language have focused on identifying similarity between 
+groups of texts, rather than across a single text. However, 
+natural language is inherently more difficult to process 
+automatically than program code, making detection of even 
+more routine changes such as lexical or syntactic 
+modifications less successful. 
+Compared to program code, difficulty in processing in this 
+instance is derived from at least two properties of natural 
+language: (1) ambiguity, and (2) unconstrained vocabulary. 
+For example, consider detecting plagiarism in which words 
+are replaced by their synonyms. Machine Readable 
+Dictionaries such as WordNet6
+ are possible sources for 
+such transformations, but because word senses are 
+ambiguous, selection of the correct term is often non-trivial. 
+Consider a more complex approach in which the texts are 
+parsed and their syntax compared. Ambiguity in parsing 
+means that the same sentence between texts can result in

@@ -1,0 +1,39 @@
+Breakout. The breakout point is difficult to identify in a broadening formation as it develops. I look for the place where price pierces the up or down
+trend line or makes an extended move. If price pierces the trend line, then the
+penetration point becomes the breakout point. If prices move up and follow
+along the top trend line without piercing it, then I backtrack to the prior minor
+high and draw a horizontal line forward in time until prices cross it. When that
+happens, that is the breakout point.
+Let me give you an example. Consider the broadening bottom shown in
+Figure 1.2. The price trend over the preceding month leading to the formation
+is downward. The two trend lines outline a widening price pattern as you such as renaming identifiers, or replacing equivalent 
+iteration structures. 
+Given two “normalised” strings, a language-independent 
+comparison method is chosen based upon string comparison, e.g. approximate string matching (Wise,1996) or 
+sequence alignment (e.g. Gitchell and Tran (1999)), with 
+the following assumption: plagiarised programs are more 
+likely to share longer matching substrings. The output from 
+this comparison can be quantitative, e.g. the longest 
+common substring or the average substring length; or 
+qualitative, such as a visual representation of comparison 
+or a list of substring matches. 
+Some researchers combined both approaches, e.g. 
+Donaldson et al. (1981) and Jankowitz (1988), but current 
+detec-tion systems (see, e.g. Whale (1990), Baker (1993), 
+Wise (1996), Gitchell and Tran (1999), Joy and Luck (1999) 
+and Prechelt et al. (2000)) use only structure-based 
+approaches and compare string representations of 
+programs rather than metrics obtained from the program. 
+Current research is not focused on finding further 
+comparison methods, but in how best to recode programs 
+into a normalised stream of tokens. 
+In summary, methods of detection between programs 
+include measuring similarity: (1) between program style or 
+complexity (Ottenstein,1976), (2) between their parse trees 
+(Jankowitz,1988), (3) between their flow of data (Horwitz, 
+1990), (4) between fingerprint or compressed representations of the programs (see, e.g. (Manber,1994) and (Ziv 
+and Lempel,1977)), (5) between matching substrings (e.g. 
+the UNIX diff tool), (6) between compressed versions of the 
+sources, (7) between parameterised matches (Baker,1993), 
+and (8) between visual representations of the programs 
+(Church and Helfman,1993). 

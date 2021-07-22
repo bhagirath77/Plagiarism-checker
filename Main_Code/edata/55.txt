@@ -1,0 +1,24 @@
+Today, there are examples where even verbatim text reuse 
+is not considered unethical; rather the norm. One such 
+example is the reuse of newswire (or news agency) texts by 
+journalists in the creation of newspaper articles (see, e.g. 
+(Clough et al.,2002a)). As long as the journalist or the 
+organisation they write for are subscribers of the news 
+agency, they are free to reuse agency text as and how they 
+please, with or without attribution. But let us return to the 
+broader example of text reuse in hand: plagiarism. Why is it 
+considered so wrong and what can be done to counteract 
+this kind of text reuse? 
+2. Plagiarism detection 
+The aim of this paper is to present plagiarism detection as a 
+problem to be solved; not to cover other aspects of plagiarism, important as they are, such as: surrounding ethical 
+and moral issues (see, e.g. (Mallon,1989), (Martin, 1994), 
+(LaFollette,1992), (Hannabuss,2001) and (AngélilCarter,2000)), suggestions for practical steps that the 
+individual or institution can take to detect plagiarism (see,
+When I was a little tyke I decided the easiest way to riches was to play the stock
+market. It was, after all, a level playing field, a negative-sum game with somebody winning and somebody losing. (Hint: The winner is always the broker.)
+All one had to do to win was pick stocks that went up and avoid stocks that
+went down. Easy.
+I kept this in mind when I graduated from Syracuse University with an
+engineering degree and showed up early for my first professional job. Each
+morning I cracked open the newspaper and plotted my stock picks on a piece

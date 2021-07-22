@@ -1,0 +1,42 @@
+• More chart patterns. I added 14 new chart patterns.
+• Event patterns. I added 9 new types of patterns, which I call event patterns. These include earnings surprises, drug approvals, store sales, and
+stock upgrades and downgrades.
+• More samples. I found over 38,500 chart pattern samples, more than
+double the 15,000 used in the first edition, making many of the statistics rock solid.
+• Keyed table entries. Each table entry appears in bold at the start of its
+corresponding text discussion for easy locating.
+• Glossary Various methods of sequence comparison have been 
+suggested for measuring the similarity and difference 
+between token sequences (see, e.g. (Sankoff and Krustal, 
+1983)). One approach used successfully for plagiarism 
+detection in program code is Greedy String Tiling (or GST: 
+see, e.g. (Wise,1993)), an algorithm which computes a 1:1 
+mapping between the tokens in a text pair in such a way 
+that as much of one text as possible is covered with 
+maximal non-overlapping substrings (called tiles) from the 
+other. This algorithm computes the longest common 
+substrings (greater than length n) between two texts without 
+having to define an n-gram size a priori. For example, the 
+texts in Figure 1 represents a tiling of two sentences after 
+running GST (tiles are highlighted) with a minimum match 
+length of 1 word. 
+The result of running the GST algorithm is a set of maximal 
+matches between the text pair: [for two years], [driver who], 
+[into the], [a], [queen], [was] and [banned]. Given a set of 
+tiles, a number of different quantitative measures can be 
+derived such as the minimum and maximum tile length, the 
+average tile length, the dispersion of tile lengths, and a 
+similarity score based on tile length (similar to that for ngram containment). We have found on average that derived 
+texts do share longer matching substrings, and both the 
+tiling for a derived and non-derived text pair are in most 
+cases apparently different (see Figure 2). The challenges 
+are capturing these tiling patterns such that derived and 
+non-derived texts are distinguishable
+I no longer
+follow but that have historical data of limited duration (some issues no 
+longer trade).
+For rare chart patterns, I use all three databases and search from 1991 to
+the most recent date available. For plentiful patterns, I use already found patterns and add those appearing during the bear market. Thus, the number of
+stocks I use to find patterns and the amount of historical price quotes varies.
+In the first edition of this book, I used a combination of computerized
+algorithms and manual searching to find chart patterns. The current edition

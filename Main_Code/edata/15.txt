@@ -1,0 +1,15 @@
+Before reading about the various chart patterns in this book, it is wise to review
+the performance of the stock market during the period. Figure I.1 shows a
+monthly price chart of the Standard & Poor’s 500 stock index. Beginning in
+mid-1991, you can see that the market moved up at a leisurely pace, pausing
+during much of 1994, and then resuming the climb at a steeper angle in 1995.
+The index stumbled in August 1998 and made lower lows for 2 more months
+before continuing upward, peaking in March 2000, and signaling an end to the
+bull market. The move capped a rise of 418% from the start of the period.
+After that, the downhill bear run began, reaching a low in October 2002, for a
+decline measuring 51%. The index bounced once but made a higher low in
+March 2003, signaling a trend change. Thus, the October low marked the end
+of the bear market.
+What does all this mean? The bear market measures from March 24,
+2000, to October 10, 2002—about 2.5 years long. For data collection purposes, the bull market is everything else, about 11 years long. That covers the
+period I used to search for chart patterns in this edition

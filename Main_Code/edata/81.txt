@@ -1,0 +1,21 @@
+Founded in 1807, John Wiley & Sons is the oldest independent publishing
+company in the United States. With offices in North America, Europe, Australia, and Asia, Wiley is globally committed to developing and marketing print
+and electronic products and services for our customers’ professional and personal knowledge and understanding.
+The Wiley Trading series features books by traders who have survived or example, Table 1 shows the number of n-gram occurrences (tokens), distinct n-grams (types), the percentage of 
+unique n-grams (type-token ratio) and the percentage of ngrams occurring in one text as n varies from 1 to 10 words. 
+These figures are taken from 769 texts in the METER 
+corpus (a restricted domain of law and court reporting texts 
+- see (Clough et al.,2002b)). Note that as n increases, the 
+percentage of distinct n-grams increases indicating that 
+tokens become increasingly unique. Note also that the 
+percentage of distinct n-grams occurring in a single file also 
+increases indicating that longer n-grams are less likely to 
+be shared across more than one document. 
+When the
+stock recovers to its old high, his trading partners sell the remainder of their
+holdings. The stock tops out and rounds over. During the next month and a
+half, the stock drifts down, slowly, casually. There does not appear to be a rush
+for the exits—just a slow trickle as the smart money quietly folds up shop.
+Then news of poor holiday sales leaks out. There is a rumor about distribution problems, merchandising mistakes, and cash flow problems. Brokerage
+firms that only weeks before were touting the stock now advise their clients to
+sell. The stock plummets 39% overnight.

@@ -1,0 +1,24 @@
+3. Automatic plagiarism detection 
+Almost all research to date has concentrated on identifying 
+plagiarism and collusion between texts. Since the 1970s, 
+the popularity and direction of automatic plagiarism 
+detection has changed. To begin with, empirical research 
+came from the programming community, particularly in 
+academia where computer science departments built tools 
+to identify “unusual” similarity between programming 
+assignments handed in by students. There is still much 
+work being done within industry where there is great 
+interest in identifying similarity between large software 
+programs, e.g. duplication, redundant code and similarity 
+between revisions. 
+In academia, recent interest has shifted towards identifying 
+plagiarism between natural language texts. Particular areas 
+of concern include: identifying verbatim cut-and-paste (with 
+minor changes) from Web-based sources and identifying
+Most of the sample trades included in the chapters of this book are fictitious.
+Each sample trade uses techniques I wanted to illustrate, incorporating fictitious people in sometimes unusual circumstances. Call it poetic license, but I
+hope they give you some ideas on how to increase your profits or to minimize
+your losses.
+Statistics: “I Don’t Believe the Numbers”
+A high, tight flag has an average rise of 69% in a bull market. Question: If you
+trade this pattern often enough in a bull market, will you make an average o

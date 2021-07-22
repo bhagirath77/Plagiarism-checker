@@ -1,0 +1,14 @@
+Throwbacks and pullbacks. When you trade against the prevailing
+market trend, a throwback or pullback is more likely to occur. With the market trend, throwbacks or pullbacks occur 53% of the time.
+The average time to complete a throwback or pullback is 9 days. When a
+throwback or pullback occurs, performance suffers.
+Gaps. Rectangles have few breakout day gaps. For rectangles with
+upward breakouts, gaps helped performance (but the sample size was small).
+For downward breakouts, gaps did not change performance much.
+Table 37.5 shows a frequency distribution of time to the ultimate high or
+low. Notice how many RBs reach their targets in the first 2 or 3 weeks. For
+example, 54% (the sum of the first 3 weeks) of RBs with downward breakouts
+in a bull market reach the ultimate low in less than 3 weeks. Just 20% of RBs
+with upward breakouts in a bull market hit their targets in 3 weeks. They take
+considerably longer to reach the ultimate high (63% are still searching after 2.5
+months

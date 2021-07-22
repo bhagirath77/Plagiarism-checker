@@ -53,7 +53,7 @@ def text2png(text, fullpath, color="#000", bgcolor="#FFF", fontfullpath=None, fo
 # show time
 f = open("ex.txt", encoding="utf8")
 x = f.read()
-text2png(x, 'test.png', fontfullpath="font.ttf")
+text2png(x, 'test.png', fontfullpath="verdanab.ttf")
 img = cv2.imread('test.png')
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 y = pytesseract.image_to_string(img)

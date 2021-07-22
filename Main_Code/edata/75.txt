@@ -1,0 +1,22 @@
+Volume. There is nothing magical in the volume trend. I performed linear regression from the start of each formation to the end point (not the breakout point that is usually a month beyond the end of the formation) and found
+that volume rises about 57% of the time.
+14 Broadening Bottoms
+Table 1.1
+Identification Characteristics of Broadening Bottoms
+Characteristic Discussion
+Price trend The short-term price trend should be downward leading to the
+formation.
+Shape Megaphone shape with higher highs and lower lows.
+Trend lines Prices follow two trend lines: The top one slopes up and the bottom
+one slopes down Empirical investigation has shown that measures of 
+similarity derived from attribute-counting measures cannot 
+capture the structure of a program sufficiently to distinguish 
+plagiarised from non-plagiarised texts (c.f. (Faidhi and 
+Robinson,1987), (Whale,1990) and (Wise,1992)). This has 
+led to the creation of ‘structure-based’ methods which 
+compare string representations of program structure 
+directly, rather than measures derived from the structure. 
+Programs are typically converted into a string representtation, which might involve some knowledge of the target 
+language, e.g. tokenisation, or more language-dependent 
+methods, such as parsing. The aim of this stage is to 
+reduce the effect of differences due to systematic changes

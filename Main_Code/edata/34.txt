@@ -1,0 +1,14 @@
+Trading Tactics
+Table 1.8 shows trading tactics for broadening bottoms.
+Measure rule. The first tactic is to determine how much money you are
+likely to make in a trade. The measure rule helps with the prediction. Subtract
+the highest high from the lowest low in the formation to give you the formation height. Then add the value to the highest high to get the target price for
+upward breakouts and subtract the height from the lowest low for downward
+breakouts.
+In a bull market, this method correctly predicts an upward breakout target 59% of the time. The worst showing is from BBs in a bear market with a
+downward breakout. The prediction is correct just 31% of the time. I consider
+values above 80% to be reliable, so this prediction method is dismal.
+Figure 1.4 makes the computation clear. Point A shows the highest high
+in the chart pattern at 14.13. The lowest low is point B at 12. The formation
+height is the difference between the two or 2.13. Add the value to the high to
+arrive at the upward price target. This turns out to be 16.26. I compute the

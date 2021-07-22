@@ -1,0 +1,30 @@
+Acknowledgments
+Perhaps several times in your life, something occurs that alters its direction.
+That happened to me several years ago when I brashly submitted my first article to Technical Analysis of Stocks and Commodities. Much to my surprise and
+delight, the editor at the time, Thom Hartle, published the work. That single
+event sent me spinning off in a new direction, another career.
+Nearly a dozen articles later, I called Thom and chatted with him about
+an idea for a book. He steered me to Pamela van Giessen, now editorial director for John Wiley & Sons, Inc., publisher of this book. A single e-mail of my
+idea to her put a new set of wheels in motion. Simple words cannot express my There are three main problems with using cusums: (1) 
+computing the scaling factor for plotting cusum charts, (2) 
+selecting suitable habits, and (3) detecting “significant” 
+variations between the charts. Further problems also 
+involve the quality of sentence splitting, the removal of 
+“noisy” sentences, e.g. lists which deviate significantly from 
+the average sentence length, the chart’s appearance varies 
+depending on the number of sentences analysed, 
+combining texts in different ways tends to give different 
+cusum charts and the position of the combined texts also 
+creates variation in the cusum plots. The cusum technique 
+is certainly useful in detecting inconsistencies within a 
+single text, but work by Hearsee (2001) found the method 
+unsuccessful for plagiarism detection, and I believe 
+methods used to detect inconsistencies in collaborative 
+writing may offer better alternatives to the cusum approach.
+try to keep
+cash employed by buying formations that promise reliable returns and reach
+the ultimate high quickly.
+For the long-term investor, chart patterns also signal good entry and exit
+points. I remember buying an oil services company knowing that the investment would not make a significant return for 2 or 3 years. (I was wrong: It doubled in 3 weeks) I believe that in 3 years’ time, the stock will be in the 30s, a
+sixfold increase from its low. It probably will not qualify as a ten-bagger, but it
+is not small change either. In the short term, the road is going to be rocky, and

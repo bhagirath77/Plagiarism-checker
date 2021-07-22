@@ -1,0 +1,24 @@
+minor lows and three minor highs. A five-point reversal is also rare: I located
+only 5 in the 77 broadening bottoms I examined. The price trend begins moving down in late August and reaches a low 2 days before the formation begins.
+Yes, prices do move up for several days, leading to the first touch of the top
+trend line, but I still consider the overall price trend to be moving down to 
+the formation. Price overshooting or undershooting the formation start is
+common.
+This particular chart pattern shows a partial decline. Prices move down another program with a small number of routine 
+transformations.” These transformations might range from 
+the simple (e.g. changing comments or variable names), to 
+the more complex (e.g. replacing control structures with 
+equivalents). Faidhi and Robinson (1987) characterise 
+possible transformations in a spectrum ranging from no 
+change (level 1) to the most complex changes (level 6). 
+Identifying all possible changes a plagiarist is likely to use 
+to disguise their copying would be infeasible, however 
+changes in program code tend to fall into two categories 
+(Joy and Luck,1999): 
+(1) Lexical changes: edits that would, in principle, be 
+performed using a simple text editor and require little 
+knowledge of the programming language. In particular 
+these edits would not require knowledge sufficient to 
+parse a program. These changes might include 
+rewording, adding or deleting comments, changing formatting and changing variable names (approximately 
+levels 1-3 in Faidhi and Robinson (1987)). 

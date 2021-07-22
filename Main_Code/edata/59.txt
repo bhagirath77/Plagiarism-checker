@@ -1,0 +1,36 @@
+Forms of plagiarism 
+Plagiarism can take several distinct forms, including the 
+following (Martin,1994): 
+(1) Word-for-word plagiarism: direct copying of phrases 
+or passages from a published text without quotation or 
+acknowledgement. 
+(2) Paraphrasing plagiarism: when words or syntax are 
+changed (rewritten), but the source text can still be 
+recognised. 
+(3) Plagiarism of secondary sources: when original 
+sources are referenced or quoted, but obtained from a 
+secondary source text without looking up the original. 
+(4) Plagiarism of the form of a source: the structure of 
+an argument in a source is copied (verbatim or 
+rewritten). 
+(5) Plagiarism of ideas: the reuse of an original thought2
+from a source text without dependence on the words or 
+form of the source.
+(6) Plagiarism of authorship: the direct case of putting 
+your own name to someone else’s work 
+The easiest form of plagiarism to detect and prove is 
+verbatim or word-for-word text reuse (given a possible 
+source text to compare with). This can often be detected 
+using the simplest of automatic methods, but occurrences 
+by students are often due to the fact that they are uncertain 
+as to how to reuse source texts legitimately. 
+Acknowledgments
+Perhaps several times in your life, something occurs that alters its direction.
+That happened to me several years ago when I brashly submitted my first article to Technical Analysis of Stocks and Commodities. Much to my surprise and
+delight, the editor at the time, Thom Hartle, published the work. That single
+event sent me spinning off in a new direction, another career.
+Nearly a dozen articles later, I called Thom and chatted with him about
+an idea for a book. He steered me to Pamela van Giessen, now editorial director for John Wiley & Sons, Inc., publisher of this book. A single e-mail of my
+idea to her put a new set of wheels in motion. Simple words cannot express my
+thanks to these two outstanding individuals.
+This is a great book made better by the tireless efforts of Bernice Pettinato

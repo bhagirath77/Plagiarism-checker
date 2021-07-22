@@ -21,10 +21,10 @@ pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesse
 First of all, we need to read all the files. To counter the problem of obfuscated text, we will be converting all the text files into images.
 
 While converting them to images, we will convert the Diacritics that have been used by the students to in the aplhabets to their root form. 
-An example of a Diacritic for e is é,è,ê,ë,ē . 
+An example of a Diacritic for e is é,è,ê,ë,ē .
 
 ```python
-path = 'txt_files'
+path = 'Main_Code/txt_files'
 os.chdir(path)
 
 for file in os.listdir():
@@ -32,6 +32,7 @@ for file in os.listdir():
         read_text_files(f'{file}')
 
 os.chdir('../imgs')
+
 
 def read_text_files(file_path):
     with open(file_path, encoding='utf8') as f:

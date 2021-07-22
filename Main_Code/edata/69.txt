@@ -1,0 +1,30 @@
+2.5. What the plagiarism detection task is not 
+The problem of identifying plagiarism concerns the way in 
+which the content of a text is expressed and whether this is 
+likely to come from other sources. Is it consistent, or does it 
+feel multi-authored; is the text similar to an existing one or 
+does it appear original? This task differs from other 
+problems of text analysis, for example authorship attribution 
+and information retrieval. 
+In authorship attribution, the concern is one of authorship 
+regardless of content. Discriminators of attribution tend to 
+be those based on lexical or syntactic features which remain constant over texts on different topics, but vary across 
+authors. Plagiarism detection also varies from the typical ad 
+hoc information retrieval task of finding texts on the same or 
+similar topic to a user-defined query. In this problem 
+discriminators are those based on topic (e.g. perhaps noun 
+phrases, or proper names). 
+The plagiarism detection task is different from authorship 
+attribution, but deeper than information retrieval. Plagiarism 
+concerns content, regardless of author and expression, 
+rather than topic. Given that there will always remain a high 
+degree of similarity between works on the same topic (e.g. 
+essays written by a group of students on the same course) 
+discriminators used in plagiarism detection should not only 
+concern content, but also expression. try to keep
+cash employed by buying formations that promise reliable returns and reach
+the ultimate high quickly.
+For the long-term investor, chart patterns also signal good entry and exit
+points. I remember buying an oil services company knowing that the investment would not make a significant return for 2 or 3 years. (I was wrong: It doubled in 3 weeks) I believe that in 3 years’ time, the stock will be in the 30s, a
+sixfold increase from its low. It probably will not qualify as a ten-bagger, but it
+is not small change either. In the short term, the road is going to be rocky, and

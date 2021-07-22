@@ -1,0 +1,19 @@
+time. A downward breakout follows a partial rise 83% of the time. I did not
+split the numbers into bull or bear markets.
+When a partial decline occurs, does performance suffer? Yes and no.
+Using the top of the rectangle as the breakout price, the average rise in a bull
+market from rectangles showing partial declines is 51% compared to 44% for
+rectangles without partial declines. The results flip for rectangles in a bear
+market, perhaps due to the low sample count.
+Partial rises had the same effect on rectangles with downward breakouts,
+but the results were not as dramatic.
+Pre-formation rise or drop. Figure 37.4 shows a pre-formation rise, a
+brief spike or overshoot before the start of the rectangle. In all market conditions and breakout directions, rectangles performed better when a preformation rise was absent.
+Figure 37.1 shows a pre-formation drop, a brief dip before the rectangle.
+In most cases, rectangles with a pre-formation drop tended to perform better
+than did those without a pre-formation drop. The only exception was for rectangles in a bear market with an upward breakout.
+Do I think these results are meaningful? No. I cannot see the connection
+between a brief spike or decline before a rectangle begins to the postbreakout
+performance. While the results in Table 37.8 are interesting, they may have little trading application.
+Statistics 575
+Shelby Williams Industries, Inc. (Furn/Home Furnishings, NYSE, SY

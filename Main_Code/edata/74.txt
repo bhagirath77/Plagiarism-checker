@@ -1,0 +1,30 @@
+Shape. The shape of the formation is distinct. It reminds me of chaos
+theory where small disturbances oscillate back and forth, then grow unbounded, wreaking havoc. In the stock market, price reaches a new high then
+crosses over and makes a new low, creating the broadening pattern. When you
+draw a trend line across the minor highs and another connecting the minor
+lows, the formation looks like a megaphone.
+Trend lines. The two trend lines drawn across the minor highs and lows
+are important. The top trend line should slope up; the bottom one should
+slope down. The diverging trend lines distinguish the broadening bottom from
+other types of formations, such as the right-angled broadening formation Structural changes: these changes require 
+knowledge of the programming language to the extent 
+of being able to change the structure so that the 
+program still parses. This is highly language dependent and might include replacement of equivalent 
+iteration structures or operand ordering (approximately 
+levels 4-6 in Faidhi and Robinson (1987)). 
+Two major approaches have emerged for plagiarism 
+detection in program code (e.g. (Whale,1990) and (Verco 
+and Wise, 1996)): (1) attribute-counting, and (2) 
+structure-based. The earliest systems (e.g. 
+(Ottenstein,1976)) counted program attributes such as 
+metrics of software science5
+, the number of tokens, 
+distribution of identifiers and other author or program 
+specific characteristics. These scores were collected into a 
+vector called a profile and a distance measure, e.g. 
+Euclidean distance, used to determine the degree of 
+closeness between profiles. Many attributes have been 
+tried, but an attribute-counting method with consistent 
+results is still to be found. The difficulty of choosing an 
+appropriate set of metrics, so far, has been an insoluble 
+problem associated with this approach. 
