@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<document reference="45">
+
+<feature name="plagiarism" obfuscation="none" source_length="Geeks for Geeks" source_offset="Geeks for Geeks" source_reference="Geeks for Geeks" this_length="Geeks for Geeks" this_offset="Geeks for Geeks" type="artificial"/>
+</document>

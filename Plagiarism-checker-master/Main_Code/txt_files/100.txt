@@ -1,0 +1,53 @@
+See also Same as for upward breakouts
+If you think of a rectangle as a horizontal consolidation region or a flat base
+from which prices make a large move, then rectangles are easier to identify and
+the statistics more meaningful. Rectangle tops (RTs) are solid performers in
+bull markets as the Results Snapshot shows. The failure rates are lowest and
+performance is best when prices move in the direction of the prevailing market trend: upward in a bull market and downward in a bear market. Countertrend moves suffer.
+The surprising findings are not surprising at all, as other chart pattern
+types share many of the same ones. However, rectangles have features unique
+to few other patterns: pre-formation rises and declines, and partial rises and
+declines. A pre-formation rise or decline is when price bumps up or down just
+before the rectangle starts. A partial rise or decline comes at the end of the rectangle and it reliably signals the breakout direction. More about these features
+in the Statistics section of this chapter.
+Tour
+Figure 38.1 shows an example of a rectangle top. Prices begin their upward
+trek in June 1992 at 14 and reach the rectangle in May of the following year.
+Then prices consolidate for over a month, bouncing between overhead resistance at 24.63 and support at 23.63. A trend line drawn across the minor highs
+580 Rectangle Tops
+4366_38.qxd 2/23/05 12:16 PM Page 580is horizontal as is the one connecting the minor lows. There are a number of
+touches of both trend lines suggesting a reliable formation. At the start, prices
+overshoot both up and down by peeking outside the two trend lines. This
+movement is not a problem because it occurs too early in the chart pattern
+before it can be recognized as a rectangle.
+The volume pattern begins in the typical manner—receding. However,
+about two-thirds of the way to the breakout, the pattern changes. Volume gets
+heavier as if building pressure for the upcoming release. Then, mysteriously,
+volume subsides as prices move horizontally just below the top trend line for
+over a week. When prices pierce the top trend line, volume picks up but not
+remarkably so. Volume just builds on the expanding trend that is developing
+since prices began sliding along the trend line top.
+Prices climb away cleanly. There is a slight, 3-day dip in late June when
+it looks as if prices are trying to throw back to the formation top, but the buying pressure is just too strong. The retrace stops and prices turn around and
+continue moving up.
+Why do rectangles form? A rectangle chart pattern is a struggle between
+the haves and the have-nots. Those that own the stock but want to sell have
+identified a price at which they are willing to part with their shares. When the
+price reaches that level, they sell, forcing the price down. When prices fall,
+they quit dumping the stock. On the other side is another group of investors
+who want to acquire the stock. They place buy orders at what they perceive to
+be the fair value. When price falls to their target, the buy orders overwhelm
+Tour 581
+Williams Companies Inc. (Natural Gas (Diversified), NYSE, WMB)
+Jan 93 Feb Mar Apr May Jun Jul Aug
+Partial
+Decline
+
+Figure 38.1 Rectangle top with an upward breakout performs well in this
+uptrend.
+4366_38.qxd 2/23/05 12:16 PM Page 581supply and the price rises. If this up–down struggle goes on long enough, price
+bounces between one extreme and the other. Over time, you can draw a horizontal trend line along the peaks and another along the valleys as a rectangle
+formation takes shape. Eventually, one of the sides runs out of ammunition. If
+the people selling their shares run out first, buying demand overwhelms supply and the price pierces the top trend line. If the buyers spend all their money
+and back away from the table, prices drop through the bottom of the rectangle.
+In either case, the shares continue in the breakout direction because of growing demand (the price moves upward) or increasing supply (the price tumbles)
